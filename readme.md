@@ -1,7 +1,7 @@
 # build
 
 ```bash
-docker build --tag enhance-docker
+docker build --tag enhance-docker .
 ```
 
 # run
